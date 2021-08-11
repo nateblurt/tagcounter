@@ -1,0 +1,30 @@
+* {
+    margin:0;
+    padding:0;
+}
+#generateButton, #tagCountDiv {
+    height:15vw;
+    line-height:15vw;
+    font-size:8vw;
+}
+#generateButton {
+    background-color:#8ae;
+    position:fixed;
+    border:none;
+    bottom:0px;
+    width:100vw;
+}
+#tagCountDiv {
+    background-color:#eee;
+    width:100vw;
+    text-align:center;
+    font-family:monospace;
+}
+#textarea {
+    position:absolute;
+    top:15vw;
+    bottom:15vw;
+    border: none;
+    font-size: 4vw;
+    width:100vw;
+}
